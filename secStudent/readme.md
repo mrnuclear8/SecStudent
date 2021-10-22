@@ -20,6 +20,8 @@
 - 用于训练的可视化的测试样例会输出保存到 images/(your_dataset_name) 如 images/cartoonCity_hinet_dataset_256w_key
 - 训练的权重会保存到 saved_models/(your_dataset_name) 如 saved_models/cartoonCity_hinet_dataset_256w_key
 - 密匙key将会被随机生成同时保存到 saved_key 文件夹里，名称已预设置为 keytest.pth
+- saved_models权重下载地址：链接:https://pan.baidu.com/s/1EU4jlVc5bHo-Te7DksFzqw 
+  提取码:yyds
 
 ##  测试模型
 - 本作品已经有两个训练好的模型权重在saved_models文件夹里供预览使用，分别为HINET和LBU模型的权重，G_AB_99.pth为生成器的权重，G_BA_99.pth为解码器的权重
