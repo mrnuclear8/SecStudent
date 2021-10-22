@@ -1,4 +1,0 @@
-使用说明：
-	代码由DataPrepare与secStudent两部分组成。
-	使用时先执行DataPrepare中的内容再执行secStudent中的内容
-	每个部分的详细说明，可以参考各自文件夹中的readme文件
