@@ -28,13 +28,13 @@
 - 图片默认输出到 images/output_images，效果如下所示
 
 ### bluecar
-<img src="images/output_image/bluecar" width="1000px"/>
+<img src="images/output_image/bluecar.png" width="1000px"/>
 
 ### Parade
 <img src="images/output_image/0_Parade_marchingband_1_12real_A.png" width="1000px"/>
 
 ### People206
-<img src="images/output_image/206.png" width="1000px"/>
+<img src="images/output_image/206.jpg" width="1000px"/>
 
 
 
