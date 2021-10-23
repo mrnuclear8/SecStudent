@@ -1,4 +1,4 @@
-#secStudent使用说明
+# secStudent使用说明
 ## 环境安装
 我们所使用的环境是conda虚拟环境，里面的pip包和conda已经全部打包到根目录，分别是**conda_env.yaml**和**pip_requirements.txt**安装命令如下:
 
